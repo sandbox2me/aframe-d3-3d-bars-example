@@ -4,11 +4,11 @@
   "description": "An example of a 3D bar chart using D3 and Aframe.",
   "main": "main.js",
   "dependencies": {
-    "aframe": "^0.3.2",
+    "aframe": "^0.5.0",
     "aframe-meshline-component": "^0.2.0",
     "browserify": "^13.1.1",
-    "d3": "^4.3.0",
-    "lodash": "^4.17.2"
+    "d3": "^4.6.0",
+    "lodash": "^4.17.4"
   },
   "devDependencies": {},
   "scripts": {
